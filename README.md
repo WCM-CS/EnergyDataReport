@@ -1,4 +1,4 @@
-# EnergyDataReport
+# Energy Data Consumption Report
 
 OVERVIEW
 - This project includes data manual extraction from the EIA for energy comsumption per fuel type in the USA along with data from Wiki regarding energy density and specific energy.
@@ -26,6 +26,10 @@ Step 2
 Step 3
 - Sync the tableasu dashboard appliaction to the MysSql container.
 - Create vizualization in the tableau dashbaord.
+
+MySQL Entity Relationship Diagram:
+
+![ERD_energy_database](https://github.com/user-attachments/assets/1e63ea17-2d99-435c-ac0d-f3218bbc6be8)
 
 
 
