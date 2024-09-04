@@ -30,7 +30,9 @@ Step 3
 
 MySQL Entity Relationship Diagram:
 
-<img width="896" alt="Screenshot 2024-09-04 at 7 28 42 PM" src="https://github.com/user-attachments/assets/d6289939-84f8-4f63-83a0-16d8f2bcae4d">
+<img width="994" alt="Screenshot 2024-09-04 at 7 40 24 PM" src="https://github.com/user-attachments/assets/526c5aa7-76d9-4e42-8495-a932ddfd3274">
+
+
 
 
 
