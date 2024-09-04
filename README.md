@@ -30,7 +30,7 @@ Step 3
 
 MySQL Entity Relationship Diagram:
 
-![ERD_energy_database](https://github.com/user-attachments/assets/1e63ea17-2d99-435c-ac0d-f3218bbc6be8)
+<img width="896" alt="Screenshot 2024-09-04 at 7 28 42 PM" src="https://github.com/user-attachments/assets/d6289939-84f8-4f63-83a0-16d8f2bcae4d">
 
 
 
