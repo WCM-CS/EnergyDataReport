@@ -36,5 +36,5 @@ MySQL Entity Relationship Diagram:
 
 
 
-Data Videualizations:
+Data Vizualizations:
 The predictive analytcal vizualization groups the consumption by fuel category thus allowing up to view total projections for categories being non-renewable, renewable, and nuclear. Granted certain elements of each categeory are exlcuded from the report, but while most prominent were added.
