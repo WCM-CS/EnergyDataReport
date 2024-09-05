@@ -35,6 +35,7 @@ Step 3
 - Create vizualization in the tableau dashbaord.
 
 MySQL Entity Relationship Diagram:
+
 It may seem like a star schema where the Fuel_Types table acts as the fact table with surrounding dimension tables, but this isn’t accurate. The Fuel_Types table does not contain foreign keys to other tables, so it is not a fact table. The actual fact tables are the Energy_Consumption and Predicted_Consumption tables, which store foreign keys referencing the Fuel_Types table.
 
 The Fuel_Types table serves as the main dimension table. The detail tables, such as Coal_Details, Petroleum_Details, Energy_Details, and Biofuel_Details, are normalized extensions of the Fuel_Types table. These detail tables provide additional information for specific fuel types, including fuel subtypes and corresponding energy density or specific energy, where applicable. For many renewable resources, these metrics are not relevant and, therefore, are not included.
