@@ -1,12 +1,18 @@
 # Energy Data Consumption Report
 
 OVERVIEW
-- This project includes data manual extraction from the EIA for energy comsumption per fuel type in the USA along with data from Wiki regarding energy density and specific energy.
-- The limitations of this project and the data pipeline relate to the EIA API due to its lack or historical data, stopping reports at 1973 despite their existing from 1950 as listed on their PDF reports. BEsides from using thier API to automae the pipeline I could have web scraped their cite, but webscraping a PDF involved convverting it to HTML and parsing through three files rather than one per document thus making it more time consuming than manual extraction of data. Though after gathering historical data manually using their API to configure future aditions could allow for the consumption metrics to be gathered and improted to the database with ease.
-- The data for certain fuel types may be in different metrics such as BTU, thousand barrels per day, or billion cubic feet. Additionally, depending on the specific report, the data may relate to annual or monthly consumption. Therefore, during the data processing phase before analytics, I multiplied monthly reports by 12 to get annual consumption and converted various metrics to find a common unit of measurement. This ensures the dashboard has a consistent metric for easy comparisons.
-- In the data processing phase before analytics, I loaded the existing consumption data (post-transformation) into a Spark DataFrame and trained a linear regression model to output predictive analytical data, which is then loaded into a separate table in the database. This provides greater insight into the various forms of energy and their trajectories.
-- The limitations of this regression models consists of the external variables ecluded from the model. Things such as current trends, stock prices, and world events could influence the trajactory of energy consumption thus resulting in these predictiosn to become irrelevant. To prevent this future upgraded to the model such as allowing it to be inclufenced by external factors relative to the domain would allow for a more dynamic and portentaiily accurate preictin output, however, that it outside of the scope of this project.
-- The Energy details table is for standardized fuel types while types such as coal and petroleum where their consumption aggregated across various subtypes haave their own details table to break down the speciify denisty and specific energy of their sub types.
+
+This project involves manually extracting data from the EIA regarding energy consumption per fuel type in the USA, along with data from Wikipedia on energy density and specific energy.
+
+The project's limitations and those of the data pipeline are related to the EIA API, which lacks historical data, with reports available only from 1973 despite existing data from 1950 as indicated in their PDF reports. While automating the pipeline using their API was a possibility, web scraping their site would have been more complex due to the need to convert and parse multiple PDF files into HTML, making it more time-consuming than manual extraction. However, after gathering historical data manually, using the API to automate future updates could facilitate the collection and importation of consumption metrics into the database.
+
+The data for certain fuel types may be reported in different metrics, such as BTU, thousand barrels per day, or billion cubic feet. Additionally, data may be reported annually or monthly. To ensure consistency for the dashboard, I converted monthly reports to annual figures by multiplying by 12 and standardized various metrics to a common unit of measurement.
+
+During the data processing phase before analytics, I loaded the transformed consumption data into a Spark DataFrame and trained a linear regression model to generate predictive analytics, which were then loaded into a separate database table. This approach provides deeper insights into various forms of energy and their consumption trajectories.
+
+The limitations of the regression model include the exclusion of external variables. Factors such as current trends, stock prices, and global events can influence energy consumption trajectories, potentially rendering predictions less accurate. To address this, future upgrades to the model could incorporate external factors relevant to the domain, resulting in a more dynamic and potentially accurate prediction output. However, this is outside the scope of this project.
+
+The Energy_Details table is designed for standardized fuel types. For types like coal and petroleum, where consumption is aggregated across various subtypes, separate detail tables break down the specifics of energy density and specific energy for each subtype.
 
 
 FEATURES
@@ -29,8 +35,11 @@ Step 3
 - Create vizualization in the tableau dashbaord.
 
 MySQL Entity Relationship Diagram:
+It may seem like a star schema where the Fuel_Types table acts as the fact table with surrounding dimension tables, but this isn’t accurate. The Fuel_Types table does not contain foreign keys to other tables, so it is not a fact table. The actual fact tables are the Energy_Consumption and Predicted_Consumption tables, which store foreign keys referencing the Fuel_Types table.
 
-<img width="994" alt="Screenshot 2024-09-04 at 7 40 24 PM" src="https://github.com/user-attachments/assets/526c5aa7-76d9-4e42-8495-a932ddfd3274">
+The Fuel_Types table serves as the main dimension table. The detail tables, such as Coal_Details, Petroleum_Details, Energy_Details, and Biofuel_Details, are normalized extensions of the Fuel_Types table. These detail tables provide additional information for specific fuel types, including fuel subtypes and corresponding energy density or specific energy, where applicable. For many renewable resources, these metrics are not relevant and, therefore, are not included.
+
+![Screenshot 2024-09-04 at 11 32 34 PM](https://github.com/user-attachments/assets/d119e7be-ff1b-4eee-98ae-9a75e1419a01)
 
 
 
