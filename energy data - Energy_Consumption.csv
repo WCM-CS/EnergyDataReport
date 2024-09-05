@@ -1,0 +1,219 @@
+Id,Year,Fuel_Type_Id,Consumption,Units
+1,1950,1,5767,Billion Cubic Feet
+2,1955,1,8694,Billion Cubic Feet
+3,1960,1,11967,Billion Cubic Feet
+4,1965,1,15280,Billion Cubic Feet
+5,1970,1,21139,Billion Cubic Feet
+6,1975,1,19538,Billion Cubic Feet
+7,1980,1,19877,Billion Cubic Feet
+8,1985,1,17281,Billion Cubic Feet
+9,1990,1,19174,Billion Cubic Feet
+10,1995,1,22207,Billion Cubic Feet
+11,2000,1,23333,Billion Cubic Feet
+12,2005,1,22014,Billion Cubic Feet
+13,2010,1,24087,Billion Cubic Feet
+14,2011,1,24477,Billion Cubic Feet
+15,2012,1,25538,Billion Cubic Feet
+16,2013,1,26155,Billion Cubic Feet
+17,2014,1,26593,Billion Cubic Feet
+18,2015,1,27244,Billion Cubic Feet
+19,2016,1,27444,Billion Cubic Feet
+20,2017,1,27146,Billion Cubic Feet
+21,2018,1,30149,Billion Cubic Feet
+22,2019,1,31143,Billion Cubic Feet
+23,2020,1,30574,Billion Cubic Feet
+24,2021,1,30646,Billion Cubic Feet
+25,2022,1,32262,Billion Cubic Feet
+26,2023,1,32506,Billion Cubic Feet
+27,1950,2,6458,Thousand Barrels per Day
+28,1955,2,8455,Thousand Barrels per Day
+29,1960,2,9797,Thousand Barrels per Day
+30,1965,2,11512,Thousand Barrels per Day
+31,1970,2,14697,Thousand Barrels per Day
+32,1975,2,16322,Thousand Barrels per Day
+33,1980,2,17056,Thousand Barrels per Day
+34,1985,2,15726,Thousand Barrels per Day
+35,1990,2,16988,Thousand Barrels per Day
+36,1995,2,17725,Thousand Barrels per Day
+37,2000,2,19701,Thousand Barrels per Day
+38,2005,2,20802,Thousand Barrels per Day
+39,2010,2,19178,Thousand Barrels per Day
+40,2011,2,18896,Thousand Barrels per Day
+41,2012,2,18428,Thousand Barrels per Day
+42,2013,2,18967,Thousand Barrels per Day
+43,2014,2,19100,Thousand Barrels per Day
+44,2015,2,19532,Thousand Barrels per Day
+45,2016,2,19692,Thousand Barrels per Day
+46,2017,2,19952,Thousand Barrels per Day
+47,2018,2,20512,Thousand Barrels per Day
+48,2019,2,20543,Thousand Barrels per Day
+49,2020,2,18186,Thousand Barrels per Day
+50,2021,2,19890,Thousand Barrels per Day
+51,2022,2,20010,Thousand Barrels per Day
+52,2023,2,20246,Thousand Barrels per Day
+53,1950,3,494102,Thousand Short Tons
+54,1955,3,447012,Thousand Short Tons
+55,1960,3,398081,Thousand Short Tons
+56,1965,3,471965,Thousand Short Tons
+57,1970,3,523231,Thousand Short Tons
+58,1975,3,562640,Thousand Short Tons
+59,1980,3,702730,Thousand Short Tons
+60,1985,3,818049,Thousand Short Tons
+61,1990,3,904104,Thousand Short Tons
+62,1995,3,962104,Thousand Short Tons
+63,2000,3,1084095,Thousand Short Tons
+64,2005,3,1125978,Thousand Short Tons
+65,2010,3,1048514,Thousand Short Tons
+66,2011,3,1002948,Thousand Short Tons
+67,2012,3,889185,Thousand Short Tons
+68,2013,3,924442,Thousand Short Tons
+69,2014,3,917731,Thousand Short Tons
+70,2015,3,798115,Thousand Short Tons
+71,2016,3,731071,Thousand Short Tons
+72,2017,3,716856,Thousand Short Tons
+73,2018,3,688105,Thousand Short Tons
+74,2019,3,586543,Thousand Short Tons
+75,2020,3,476693,Thousand Short Tons
+76,2021,3,545679,Thousand Short Tons
+77,2022,3,515534,Thousand Short Tons
+78,2023,3,425919,Thousand Short Tons
+79,1990,4,56,Trillion BTU
+80,1995,4,64,Trillion BTU
+81,2000,4,59,Trillion BTU
+82,2005,4,52,Trillion BTU
+83,2010,4,68,Trillion BTU
+84,2011,4,76,Trillion BTU
+85,2012,4,94,Trillion BTU
+86,2013,4,120,Trillion BTU
+87,2014,4,161,Trillion BTU
+88,2015,4,196,Trillion BTU
+89,2016,4,251,Trillion BTU
+90,2017,4,329,Trillion BTU
+91,2018,4,384,Trillion BTU
+92,2019,4,430,Trillion BTU
+93,2020,4,511,Trillion BTU
+94,2021,4,627,Trillion BTU
+95,2022,4,765,Trillion BTU
+96,2023,4,878,Trillion BTU
+97,1990,5,10,Trillion BTU
+98,1995,5,11,Trillion BTU
+99,2000,5,19,Trillion BTU
+100,2005,5,61,Trillion BTU
+101,2010,5,323,Trillion BTU
+102,2011,5,410,Trillion BTU
+103,2012,5,480,Trillion BTU
+104,2013,5,573,Trillion BTU
+105,2014,5,620,Trillion BTU
+106,2015,5,651,Trillion BTU
+107,2016,5,774,Trillion BTU
+108,2017,5,868,Trillion BTU
+109,2018,5,930,Trillion BTU
+110,2019,5,1010,Trillion BTU
+111,2020,5,1153,Trillion BTU
+112,2021,5,1290,Trillion BTU
+113,2022,5,1482,Trillion BTU
+114,2023,5,1451,Trillion BTU
+115,1950,6,344,Trillion BTU
+116,1955,6,397,Trillion BTU
+117,1960,6,510,Trillion BTU
+118,1965,6,672,Trillion BTU
+119,1970,6,856,Trillion BTU
+120,1975,6,1034,Trillion BTU
+121,1980,6,953,Trillion BTU
+122,1985,6,970,Trillion BTU
+123,1990,6,999,Trillion BTU
+124,1995,6,1061,Trillion BTU
+125,2000,6,940,Trillion BTU
+126,2005,6,922,Trillion BTU
+127,2010,6,888,Trillion BTU
+128,2011,6,1090,Trillion BTU
+129,2012,6,943,Trillion BTU
+130,2013,6,916,Trillion BTU
+131,2014,6,885,Trillion BTU
+132,2015,6,850,Trillion BTU
+133,2016,6,914,Trillion BTU
+134,2017,6,1025,Trillion BTU
+135,2018,6,998,Trillion BTU
+136,2019,6,982,Trillion BTU
+137,2020,6,973,Trillion BTU
+138,2021,6,858,Trillion BTU
+139,2022,6,869,Trillion BTU
+140,2023,6,818,Trillion BTU
+141,1950,7,1562,Trillion BTU
+142,1955,7,1424,Trillion BTU
+143,1960,7,1320,Trillion BTU
+144,1965,7,1335,Trillion BTU
+145,1970,7,1429,Trillion BTU
+146,1975,7,1497,Trillion BTU
+147,1980,7,2474,Trillion BTU
+148,1985,7,2687,Trillion BTU
+149,1990,7,2216,Trillion BTU
+150,1995,7,2370,Trillion BTU
+151,2000,7,2262,Trillion BTU
+152,2005,7,2137,Trillion BTU
+153,2010,7,2217,Trillion BTU
+154,2011,7,2213,Trillion BTU
+155,2012,7,2151,Trillion BTU
+156,2013,7,2338,Trillion BTU
+157,2014,7,2401,Trillion BTU
+158,2015,7,2312,Trillion BTU
+159,2016,7,2227,Trillion BTU
+160,2017,7,2185,Trillion BTU
+161,2018,7,2262,Trillion BTU
+162,2019,7,2237,Trillion BTU
+163,2020,7,1970,Trillion BTU
+164,2021,7,1989,Trillion BTU
+165,2022,7,2012,Trillion BTU
+166,2023,7,1918,Trillion BTU
+167,1985,8,93,Trillion BTU
+168,1990,8,111,Trillion BTU
+169,1995,8,200,Trillion BTU
+170,2000,8,236,Trillion BTU
+171,2005,8,574,Trillion BTU
+172,2010,8,1821,Trillion BTU
+173,2011,8,1941,Trillion BTU
+174,2012,8,1899,Trillion BTU
+175,2013,8,2026,Trillion BTU
+176,2014,8,2099,Trillion BTU
+177,2015,8,2185,Trillion BTU
+178,2016,8,2333,Trillion BTU
+179,2017,8,2364,Trillion BTU
+180,2018,8,2355,Trillion BTU
+181,2019,8,2376,Trillion BTU
+182,2020,8,2136,Trillion BTU
+183,2021,8,2331,Trillion BTU
+184,2022,8,2433,Trillion BTU
+185,2023,8,2662,Trillion BTU
+186,1991,9,34.6,Million Pounds Uranium Oxide
+187,1992,9,43,Million Pounds Uranium Oxide
+188,1993,9,45.1,Million Pounds Uranium Oxide
+189,1994,9,40.4,Million Pounds Uranium Oxide
+190,1995,9,51.1,Million Pounds Uranium Oxide
+191,1996,9,46.2,Million Pounds Uranium Oxide
+192,1997,9,48.2,Million Pounds Uranium Oxide
+193,1998,9,38.2,Million Pounds Uranium Oxide
+194,1999,9,58.2,Million Pounds Uranium Oxide
+195,2000,9,51.5,Million Pounds Uranium Oxide
+196,2001,9,52.7,Million Pounds Uranium Oxide
+197,2002,9,57.2,Million Pounds Uranium Oxide
+198,2003,9,62.3,Million Pounds Uranium Oxide
+199,2004,9,50.1,Million Pounds Uranium Oxide
+200,2005,9,58.3,Million Pounds Uranium Oxide
+201,2006,9,51.7,Million Pounds Uranium Oxide
+202,2007,9,45.5,Million Pounds Uranium Oxide
+203,2008,9,51.3,Million Pounds Uranium Oxide
+204,2009,9,49.4,Million Pounds Uranium Oxide
+205,2010,9,44.3,Million Pounds Uranium Oxide
+206,2011,9,50.9,Million Pounds Uranium Oxide
+207,2012,9,49.5,Million Pounds Uranium Oxide
+208,2013,9,42.6,Million Pounds Uranium Oxide
+209,2014,9,50.5,Million Pounds Uranium Oxide
+210,2015,9,47.4,Million Pounds Uranium Oxide
+211,2016,9,41.7,Million Pounds Uranium Oxide
+212,2017,9,45.5,Million Pounds Uranium Oxide
+213,2018,9,50.4,Million Pounds Uranium Oxide
+214,2019,9,43.2,Million Pounds Uranium Oxide
+215,2020,9,48.6,Million Pounds Uranium Oxide
+216,2021,9,44.4,Million Pounds Uranium Oxide
+217,2022,9,44.4,Million Pounds Uranium Oxide
+218,2023,9,43.9,Million Pounds Uranium Oxide

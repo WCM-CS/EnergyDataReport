@@ -1,0 +1,7 @@
+Id,Fuel_Type_Id,Energy_Denisty_MJ/L,Specific_Energy_MJ/Kg
+1,1,0.0364,53.6
+2,4,NULL,NULL
+3,5,NULL,NULL
+4,6,NULL,NULL
+5,7,NULL,18
+6,9,1539842000,80620000

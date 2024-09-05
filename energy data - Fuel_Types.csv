@@ -1,0 +1,10 @@
+Id,Fuel_Name,Fuel_Category
+1,Natural Gas,Non-renewable
+2,Petroleum,Non-renewable
+3,Coal,Non-renewable
+4,Solar,Renewable 
+5,Wind,Renewable 
+6,Hydroelectric,Renewable 
+7,Wood,Renewable 
+8,Biofuels,Renewable 
+9,Uranium,Nuclear 

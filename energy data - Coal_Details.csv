@@ -1,0 +1,5 @@
+Id,Fuel_Type_Id,Coal_Type,Energy_Denisty_MJ/L,Specific_Energy_MJ/Kg
+1,3,Bituminous Coal,37.5,29.5
+2,3,Subbituminous Coal,30,26
+3,3,Lignite Coal,15,17.5
+4,3,Anthracite Coal,38.5,29.5

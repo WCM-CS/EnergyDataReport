@@ -1,0 +1,7 @@
+Id,Fuel_Type_Id,Biofuel_Type,Energy_Denisty_MJ/L,Specific_Energy_MJ/Kg
+1,8,Ethanol,24,30
+2,8,Biodiesel,33,42.2
+3,8,Methanol,15.6,19.7
+4,8,Butanol,29.2,36.6
+5,8,Gasohol E10,33.18,43.54
+6,8,Gasohol E85,25.65,33.1

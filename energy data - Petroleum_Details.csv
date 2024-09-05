@@ -1,0 +1,7 @@
+Id,Fuel_Type_Id,Petroleum_Type,Energy_Denisty_MJ/L,Specific_Energy_MJ/Kg
+1,2,Gasoline,34.2,46.4
+2,2,Propane ,25.3,49.6
+3,2,Butane,27.7,49.1
+4,2,Diesel,38.6,45.6
+5,2,Jet Fuel,35,43
+6,2,Crude Oil,37,41.9
