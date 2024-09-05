@@ -25,7 +25,7 @@ Step 1
 
 Step 2
 - Importing the data gathered from the sources into a python script as csv files.
-- Loading them into dataframes and commiting transformation on their metrics for consistant and accurant annual consumption metrics.
+- Loading them into dataframes and commiting transformation on their metrics for consistant and accurant annual consumption metrics. via: File consumption_conversion.py
 - Training a Spark linear reression model to output predictive analytics for the final table in the database.
 - Configure docker containers, network, and volume to host MySQL database and phpmyadmin.
 - Load the data into their correspodning tables in the MySQL DB, hosted in a Docker container for ease of use and portability.
