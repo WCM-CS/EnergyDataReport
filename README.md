@@ -48,7 +48,8 @@ The Fuel_Types table serves as the main dimension table. The detail tables, such
 
 Data Vizualizations:
 
-<img width="1299" alt="Energy_Dashboard_Mock2" src="https://github.com/user-attachments/assets/68d614c1-c97e-44ee-8dd9-2de938c48e7c">
+<img width="1299" alt="Screenshot 2024-09-06 at 2 58 20 AM" src="https://github.com/user-attachments/assets/f271abe2-91b9-414d-a736-92614390a124">
+
 
 
 
