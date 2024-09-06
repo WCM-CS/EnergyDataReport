@@ -47,4 +47,7 @@ The Fuel_Types table serves as the main dimension table. The detail tables, such
 
 
 Data Vizualizations:
-The predictive analytcal vizualization groups the consumption by fuel category thus allowing up to view total projections for categories being non-renewable, renewable, and nuclear. Granted certain elements of each categeory are exlcuded from the report, but while most prominent were added.
+
+<img width="1300" alt="Energy_Dashboard_Mock1" src="https://github.com/user-attachments/assets/515135ae-5604-41d9-9608-05642aa58865">
+
+
