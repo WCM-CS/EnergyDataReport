@@ -1,0 +1,7 @@
+Id_energy,Fuel_Type_Id,Energy_Denisty_MJ/L,Specific_Energy_MJ/Kg,Id_fuel_types,Fuel_Name,Fuel_Category
+1,1,0.0364,53.6,1,Natural Gas,Non-renewable
+2,4,,,4,Solar,Renewable 
+3,5,,,5,Wind,Renewable 
+4,6,,,6,Hydroelectric,Renewable 
+5,7,,18.0,7,Wood,Renewable 
+6,9,1539842000.0,80620000.0,9,Uranium,Nuclear 

@@ -1,0 +1,219 @@
+Id_consumption,Year,Fuel_Type_Id,Consumption,Units,Id_fuel_types,Fuel_Name,Fuel_Category
+1,1950,1,5974.61,Trillion BTU,1,Natural Gas,Non-renewable
+2,1955,1,9006.98,Trillion BTU,1,Natural Gas,Non-renewable
+3,1960,1,12397.81,Trillion BTU,1,Natural Gas,Non-renewable
+4,1965,1,15830.08,Trillion BTU,1,Natural Gas,Non-renewable
+5,1970,1,21900.0,Trillion BTU,1,Natural Gas,Non-renewable
+6,1975,1,20241.37,Trillion BTU,1,Natural Gas,Non-renewable
+7,1980,1,20592.57,Trillion BTU,1,Natural Gas,Non-renewable
+8,1985,1,17903.12,Trillion BTU,1,Natural Gas,Non-renewable
+9,1990,1,19864.26,Trillion BTU,1,Natural Gas,Non-renewable
+10,1995,1,23006.45,Trillion BTU,1,Natural Gas,Non-renewable
+11,2000,1,24172.99,Trillion BTU,1,Natural Gas,Non-renewable
+12,2005,1,22806.5,Trillion BTU,1,Natural Gas,Non-renewable
+13,2010,1,24954.13,Trillion BTU,1,Natural Gas,Non-renewable
+14,2011,1,25358.17,Trillion BTU,1,Natural Gas,Non-renewable
+15,2012,1,26457.37,Trillion BTU,1,Natural Gas,Non-renewable
+16,2013,1,27096.58,Trillion BTU,1,Natural Gas,Non-renewable
+17,2014,1,27550.35,Trillion BTU,1,Natural Gas,Non-renewable
+18,2015,1,28224.78,Trillion BTU,1,Natural Gas,Non-renewable
+19,2016,1,28431.98,Trillion BTU,1,Natural Gas,Non-renewable
+20,2017,1,28123.26,Trillion BTU,1,Natural Gas,Non-renewable
+21,2018,1,31234.36,Trillion BTU,1,Natural Gas,Non-renewable
+22,2019,1,32264.15,Trillion BTU,1,Natural Gas,Non-renewable
+23,2020,1,31674.66,Trillion BTU,1,Natural Gas,Non-renewable
+24,2021,1,31749.26,Trillion BTU,1,Natural Gas,Non-renewable
+25,2022,1,33423.43,Trillion BTU,1,Natural Gas,Non-renewable
+26,2023,1,33676.22,Trillion BTU,1,Natural Gas,Non-renewable
+27,1950,2,13398.15,Trillion BTU,2,Petroleum,Non-renewable
+28,1955,2,17541.25,Trillion BTU,2,Petroleum,Non-renewable
+29,1960,2,20325.44,Trillion BTU,2,Petroleum,Non-renewable
+30,1965,2,23883.49,Trillion BTU,2,Petroleum,Non-renewable
+31,1970,2,30491.28,Trillion BTU,2,Petroleum,Non-renewable
+32,1975,2,33862.6,Trillion BTU,2,Petroleum,Non-renewable
+33,1980,2,35385.4,Trillion BTU,2,Petroleum,Non-renewable
+34,1985,2,32626.1,Trillion BTU,2,Petroleum,Non-renewable
+35,1990,2,35244.32,Trillion BTU,2,Petroleum,Non-renewable
+36,1995,2,36773.35,Trillion BTU,2,Petroleum,Non-renewable
+37,2000,2,40872.88,Trillion BTU,2,Petroleum,Non-renewable
+38,2005,2,43157.08,Trillion BTU,2,Petroleum,Non-renewable
+39,2010,2,39787.83,Trillion BTU,2,Petroleum,Non-renewable
+40,2011,2,39202.78,Trillion BTU,2,Petroleum,Non-renewable
+41,2012,2,38231.83,Trillion BTU,2,Petroleum,Non-renewable
+42,2013,2,39350.08,Trillion BTU,2,Petroleum,Non-renewable
+43,2014,2,39626.01,Trillion BTU,2,Petroleum,Non-renewable
+44,2015,2,40522.26,Trillion BTU,2,Petroleum,Non-renewable
+45,2016,2,40854.2,Trillion BTU,2,Petroleum,Non-renewable
+46,2017,2,41393.62,Trillion BTU,2,Petroleum,Non-renewable
+47,2018,2,42555.43,Trillion BTU,2,Petroleum,Non-renewable
+48,2019,2,42619.74,Trillion BTU,2,Petroleum,Non-renewable
+49,2020,2,37729.77,Trillion BTU,2,Petroleum,Non-renewable
+50,2021,2,41264.99,Trillion BTU,2,Petroleum,Non-renewable
+51,2022,2,41513.95,Trillion BTU,2,Petroleum,Non-renewable
+52,2023,2,42003.57,Trillion BTU,2,Petroleum,Non-renewable
+53,1950,3,9299.0,Trillion BTU,3,Coal,Non-renewable
+54,1955,3,8412.77,Trillion BTU,3,Coal,Non-renewable
+55,1960,3,7491.88,Trillion BTU,3,Coal,Non-renewable
+56,1965,3,8882.38,Trillion BTU,3,Coal,Non-renewable
+57,1970,3,9847.21,Trillion BTU,3,Coal,Non-renewable
+58,1975,3,10588.88,Trillion BTU,3,Coal,Non-renewable
+59,1980,3,13225.38,Trillion BTU,3,Coal,Non-renewable
+60,1985,3,15395.68,Trillion BTU,3,Coal,Non-renewable
+61,1990,3,17015.24,Trillion BTU,3,Coal,Non-renewable
+62,1995,3,18106.8,Trillion BTU,3,Coal,Non-renewable
+63,2000,3,20402.67,Trillion BTU,3,Coal,Non-renewable
+64,2005,3,21190.91,Trillion BTU,3,Coal,Non-renewable
+65,2010,3,19733.03,Trillion BTU,3,Coal,Non-renewable
+66,2011,3,18875.48,Trillion BTU,3,Coal,Non-renewable
+67,2012,3,16734.46,Trillion BTU,3,Coal,Non-renewable
+68,2013,3,17398.0,Trillion BTU,3,Coal,Non-renewable
+69,2014,3,17271.7,Trillion BTU,3,Coal,Non-renewable
+70,2015,3,15020.52,Trillion BTU,3,Coal,Non-renewable
+71,2016,3,13758.76,Trillion BTU,3,Coal,Non-renewable
+72,2017,3,13491.23,Trillion BTU,3,Coal,Non-renewable
+73,2018,3,12950.14,Trillion BTU,3,Coal,Non-renewable
+74,2019,3,11038.74,Trillion BTU,3,Coal,Non-renewable
+75,2020,3,8971.36,Trillion BTU,3,Coal,Non-renewable
+76,2021,3,10269.68,Trillion BTU,3,Coal,Non-renewable
+77,2022,3,9702.35,Trillion BTU,3,Coal,Non-renewable
+78,2023,3,8015.8,Trillion BTU,3,Coal,Non-renewable
+79,1990,4,56.0,Trillion BTU,4,Solar,Renewable 
+80,1995,4,64.0,Trillion BTU,4,Solar,Renewable 
+81,2000,4,59.0,Trillion BTU,4,Solar,Renewable 
+82,2005,4,52.0,Trillion BTU,4,Solar,Renewable 
+83,2010,4,68.0,Trillion BTU,4,Solar,Renewable 
+84,2011,4,76.0,Trillion BTU,4,Solar,Renewable 
+85,2012,4,94.0,Trillion BTU,4,Solar,Renewable 
+86,2013,4,120.0,Trillion BTU,4,Solar,Renewable 
+87,2014,4,161.0,Trillion BTU,4,Solar,Renewable 
+88,2015,4,196.0,Trillion BTU,4,Solar,Renewable 
+89,2016,4,251.0,Trillion BTU,4,Solar,Renewable 
+90,2017,4,329.0,Trillion BTU,4,Solar,Renewable 
+91,2018,4,384.0,Trillion BTU,4,Solar,Renewable 
+92,2019,4,430.0,Trillion BTU,4,Solar,Renewable 
+93,2020,4,511.0,Trillion BTU,4,Solar,Renewable 
+94,2021,4,627.0,Trillion BTU,4,Solar,Renewable 
+95,2022,4,765.0,Trillion BTU,4,Solar,Renewable 
+96,2023,4,878.0,Trillion BTU,4,Solar,Renewable 
+97,1990,5,10.0,Trillion BTU,5,Wind,Renewable 
+98,1995,5,11.0,Trillion BTU,5,Wind,Renewable 
+99,2000,5,19.0,Trillion BTU,5,Wind,Renewable 
+100,2005,5,61.0,Trillion BTU,5,Wind,Renewable 
+101,2010,5,323.0,Trillion BTU,5,Wind,Renewable 
+102,2011,5,410.0,Trillion BTU,5,Wind,Renewable 
+103,2012,5,480.0,Trillion BTU,5,Wind,Renewable 
+104,2013,5,573.0,Trillion BTU,5,Wind,Renewable 
+105,2014,5,620.0,Trillion BTU,5,Wind,Renewable 
+106,2015,5,651.0,Trillion BTU,5,Wind,Renewable 
+107,2016,5,774.0,Trillion BTU,5,Wind,Renewable 
+108,2017,5,868.0,Trillion BTU,5,Wind,Renewable 
+109,2018,5,930.0,Trillion BTU,5,Wind,Renewable 
+110,2019,5,1010.0,Trillion BTU,5,Wind,Renewable 
+111,2020,5,1153.0,Trillion BTU,5,Wind,Renewable 
+112,2021,5,1290.0,Trillion BTU,5,Wind,Renewable 
+113,2022,5,1482.0,Trillion BTU,5,Wind,Renewable 
+114,2023,5,1451.0,Trillion BTU,5,Wind,Renewable 
+115,1950,6,344.0,Trillion BTU,6,Hydroelectric,Renewable 
+116,1955,6,397.0,Trillion BTU,6,Hydroelectric,Renewable 
+117,1960,6,510.0,Trillion BTU,6,Hydroelectric,Renewable 
+118,1965,6,672.0,Trillion BTU,6,Hydroelectric,Renewable 
+119,1970,6,856.0,Trillion BTU,6,Hydroelectric,Renewable 
+120,1975,6,1034.0,Trillion BTU,6,Hydroelectric,Renewable 
+121,1980,6,953.0,Trillion BTU,6,Hydroelectric,Renewable 
+122,1985,6,970.0,Trillion BTU,6,Hydroelectric,Renewable 
+123,1990,6,999.0,Trillion BTU,6,Hydroelectric,Renewable 
+124,1995,6,1061.0,Trillion BTU,6,Hydroelectric,Renewable 
+125,2000,6,940.0,Trillion BTU,6,Hydroelectric,Renewable 
+126,2005,6,922.0,Trillion BTU,6,Hydroelectric,Renewable 
+127,2010,6,888.0,Trillion BTU,6,Hydroelectric,Renewable 
+128,2011,6,1090.0,Trillion BTU,6,Hydroelectric,Renewable 
+129,2012,6,943.0,Trillion BTU,6,Hydroelectric,Renewable 
+130,2013,6,916.0,Trillion BTU,6,Hydroelectric,Renewable 
+131,2014,6,885.0,Trillion BTU,6,Hydroelectric,Renewable 
+132,2015,6,850.0,Trillion BTU,6,Hydroelectric,Renewable 
+133,2016,6,914.0,Trillion BTU,6,Hydroelectric,Renewable 
+134,2017,6,1025.0,Trillion BTU,6,Hydroelectric,Renewable 
+135,2018,6,998.0,Trillion BTU,6,Hydroelectric,Renewable 
+136,2019,6,982.0,Trillion BTU,6,Hydroelectric,Renewable 
+137,2020,6,973.0,Trillion BTU,6,Hydroelectric,Renewable 
+138,2021,6,858.0,Trillion BTU,6,Hydroelectric,Renewable 
+139,2022,6,869.0,Trillion BTU,6,Hydroelectric,Renewable 
+140,2023,6,818.0,Trillion BTU,6,Hydroelectric,Renewable 
+141,1950,7,1562.0,Trillion BTU,7,Wood,Renewable 
+142,1955,7,1424.0,Trillion BTU,7,Wood,Renewable 
+143,1960,7,1320.0,Trillion BTU,7,Wood,Renewable 
+144,1965,7,1335.0,Trillion BTU,7,Wood,Renewable 
+145,1970,7,1429.0,Trillion BTU,7,Wood,Renewable 
+146,1975,7,1497.0,Trillion BTU,7,Wood,Renewable 
+147,1980,7,2474.0,Trillion BTU,7,Wood,Renewable 
+148,1985,7,2687.0,Trillion BTU,7,Wood,Renewable 
+149,1990,7,2216.0,Trillion BTU,7,Wood,Renewable 
+150,1995,7,2370.0,Trillion BTU,7,Wood,Renewable 
+151,2000,7,2262.0,Trillion BTU,7,Wood,Renewable 
+152,2005,7,2137.0,Trillion BTU,7,Wood,Renewable 
+153,2010,7,2217.0,Trillion BTU,7,Wood,Renewable 
+154,2011,7,2213.0,Trillion BTU,7,Wood,Renewable 
+155,2012,7,2151.0,Trillion BTU,7,Wood,Renewable 
+156,2013,7,2338.0,Trillion BTU,7,Wood,Renewable 
+157,2014,7,2401.0,Trillion BTU,7,Wood,Renewable 
+158,2015,7,2312.0,Trillion BTU,7,Wood,Renewable 
+159,2016,7,2227.0,Trillion BTU,7,Wood,Renewable 
+160,2017,7,2185.0,Trillion BTU,7,Wood,Renewable 
+161,2018,7,2262.0,Trillion BTU,7,Wood,Renewable 
+162,2019,7,2237.0,Trillion BTU,7,Wood,Renewable 
+163,2020,7,1970.0,Trillion BTU,7,Wood,Renewable 
+164,2021,7,1989.0,Trillion BTU,7,Wood,Renewable 
+165,2022,7,2012.0,Trillion BTU,7,Wood,Renewable 
+166,2023,7,1918.0,Trillion BTU,7,Wood,Renewable 
+167,1985,8,93.0,Trillion BTU,8,Biofuels,Renewable 
+168,1990,8,111.0,Trillion BTU,8,Biofuels,Renewable 
+169,1995,8,200.0,Trillion BTU,8,Biofuels,Renewable 
+170,2000,8,236.0,Trillion BTU,8,Biofuels,Renewable 
+171,2005,8,574.0,Trillion BTU,8,Biofuels,Renewable 
+172,2010,8,1821.0,Trillion BTU,8,Biofuels,Renewable 
+173,2011,8,1941.0,Trillion BTU,8,Biofuels,Renewable 
+174,2012,8,1899.0,Trillion BTU,8,Biofuels,Renewable 
+175,2013,8,2026.0,Trillion BTU,8,Biofuels,Renewable 
+176,2014,8,2099.0,Trillion BTU,8,Biofuels,Renewable 
+177,2015,8,2185.0,Trillion BTU,8,Biofuels,Renewable 
+178,2016,8,2333.0,Trillion BTU,8,Biofuels,Renewable 
+179,2017,8,2364.0,Trillion BTU,8,Biofuels,Renewable 
+180,2018,8,2355.0,Trillion BTU,8,Biofuels,Renewable 
+181,2019,8,2376.0,Trillion BTU,8,Biofuels,Renewable 
+182,2020,8,2136.0,Trillion BTU,8,Biofuels,Renewable 
+183,2021,8,2331.0,Trillion BTU,8,Biofuels,Renewable 
+184,2022,8,2433.0,Trillion BTU,8,Biofuels,Renewable 
+185,2023,8,2662.0,Trillion BTU,8,Biofuels,Renewable 
+186,1991,9,598.58,Trillion BTU,9,Uranium,Nuclear 
+187,1992,9,743.9,Trillion BTU,9,Uranium,Nuclear 
+188,1993,9,780.23,Trillion BTU,9,Uranium,Nuclear 
+189,1994,9,698.92,Trillion BTU,9,Uranium,Nuclear 
+190,1995,9,884.03,Trillion BTU,9,Uranium,Nuclear 
+191,1996,9,799.26,Trillion BTU,9,Uranium,Nuclear 
+192,1997,9,833.86,Trillion BTU,9,Uranium,Nuclear 
+193,1998,9,660.86,Trillion BTU,9,Uranium,Nuclear 
+194,1999,9,1006.86,Trillion BTU,9,Uranium,Nuclear 
+195,2000,9,890.95,Trillion BTU,9,Uranium,Nuclear 
+196,2001,9,911.71,Trillion BTU,9,Uranium,Nuclear 
+197,2002,9,989.56,Trillion BTU,9,Uranium,Nuclear 
+198,2003,9,1077.79,Trillion BTU,9,Uranium,Nuclear 
+199,2004,9,866.73,Trillion BTU,9,Uranium,Nuclear 
+200,2005,9,1008.59,Trillion BTU,9,Uranium,Nuclear 
+201,2006,9,894.41,Trillion BTU,9,Uranium,Nuclear 
+202,2007,9,787.15,Trillion BTU,9,Uranium,Nuclear 
+203,2008,9,887.49,Trillion BTU,9,Uranium,Nuclear 
+204,2009,9,854.62,Trillion BTU,9,Uranium,Nuclear 
+205,2010,9,766.39,Trillion BTU,9,Uranium,Nuclear 
+206,2011,9,880.57,Trillion BTU,9,Uranium,Nuclear 
+207,2012,9,856.35,Trillion BTU,9,Uranium,Nuclear 
+208,2013,9,736.98,Trillion BTU,9,Uranium,Nuclear 
+209,2014,9,873.65,Trillion BTU,9,Uranium,Nuclear 
+210,2015,9,820.02,Trillion BTU,9,Uranium,Nuclear 
+211,2016,9,721.41,Trillion BTU,9,Uranium,Nuclear 
+212,2017,9,787.15,Trillion BTU,9,Uranium,Nuclear 
+213,2018,9,871.92,Trillion BTU,9,Uranium,Nuclear 
+214,2019,9,747.36,Trillion BTU,9,Uranium,Nuclear 
+215,2020,9,840.78,Trillion BTU,9,Uranium,Nuclear 
+216,2021,9,768.12,Trillion BTU,9,Uranium,Nuclear 
+217,2022,9,768.12,Trillion BTU,9,Uranium,Nuclear 
+218,2023,9,759.47,Trillion BTU,9,Uranium,Nuclear 
